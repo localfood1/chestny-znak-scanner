@@ -1,9 +1,6 @@
-scanner_chestny_znak_v2.py
-scanner_chestny_znak_v2_2.py
-scanner_chestny_znak_v2_3_rabochikod.py
+scanner_chestny_znak_v2_4_design.py
 build/
 dist/
-ChestnyZnakScanner.spec
 venv/
 .venv/
 env/
