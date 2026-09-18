@@ -1,0 +1,6 @@
+PyMuPDF
+opencv-python
+numpy
+zxing-cpp
+openpyxl
+pywin32
